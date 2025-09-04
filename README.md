@@ -85,14 +85,14 @@ MoviX follows **Clean Architecture** principles with **MVVM pattern** for mainta
 
 <div align="center">
 
-| Color Name | Hex Code | Preview | Usage |
-|:----------:|:--------:|:-------:|:-----:|
-| **Neon Purple** | `#8B5CF6` | ![#8B5CF6](https://via.placeholder.com/20/8B5CF6/000000?text=+) | Primary buttons, highlights |
-| **Electric Cyan** | `#06B6D4` | ![#06B6D4](https://via.placeholder.com/20/06B6D4/000000?text=+) | Secondary accents, links |
-| **Neon Orange** | `#FF8C00` | ![#FF8C00](https://via.placeholder.com/20/FF8C00/000000?text=+) | Rating stars, warnings |
-| **Electric Gold** | `#FFD700` | ![#FFD700](https://via.placeholder.com/20/FFD700/000000?text=+) | Premium features, success |
-| **Deep Blue** | `#3B82F6` | ![#3B82F6](https://via.placeholder.com/20/3B82F6/000000?text=+) | Navigation, categories |
-| **Dark Background** | `#0F172A` | ![#0F172A](https://via.placeholder.com/20/0F172A/000000?text=+) | Main background |
+| Color Name | Hex Code | Usage |
+|:----------:|:--------:|:-------:|
+| **Neon Purple** | `#8B5CF6` | Primary buttons, highlights |
+| **Electric Cyan** | `#06B6D4` | Secondary accents, links |
+| **Neon Orange** | `#FF8C00` | Rating stars, warnings |
+| **Electric Gold** | `#FFD700` | Premium features, success |
+| **Deep Blue** | `#3B82F6` | Navigation, categories |
+| **Dark Background** | `#0F172A` | Main background |
 
 </div>
 
@@ -206,18 +206,12 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Shawky Mohamed**
+- GitHub: [@ShawkyMohamed2004](https://github.com/ShawkyMohamed2004)
+- LinkedIn: [Profile](https://linkedin.com/in/shawky-mohamed-shawky)
+- Email: eng.shawkymohamed@gmail.com
 
 ---
 
@@ -228,3 +222,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ and Flutter**
 
 </div>
+
