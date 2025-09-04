@@ -431,35 +431,17 @@ We welcome contributions from the community! Here's how you can help make MoviX 
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for complete details.
-
-```
-MIT License
-
-Copyright (c) 2024 MoviX App
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
-
----
-
 ## 👨‍💻 Developer
 
 <div align="center">
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=8B5CF6&background=0A0B1E&center=true&vCenter=true&width=600&lines=Built+with+%E2%9D%A4%EF%B8%8F+using+Flutter;Clean+Architecture+%26+Modern+Design;Powered+by+TMDB+API" alt="Typing SVG" />
 
-### 🌟 **Flutter Developer & UI/UX Enthusiast**
+### 🌟 **Software Engineer & Flutter Developer**
 
-📧 **Email**: your.email@example.com  
-🐱 **GitHub**: [@your-username](https://github.com/your-username)  
-💼 **LinkedIn**: [Your Professional Profile](https://linkedin.com/in/your-profile)  
-🐦 **Twitter**: [@your_handle](https://twitter.com/your_handle)  
-🌐 **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
+📧 **Email**: eng.shawkymohamed@gmai.com  
+🐱 **GitHub**: [@ShawkyMohamed2004](https://github.com/ShawkyMohamed2004)  
+💼 **LinkedIn**: [Shawky Mohamed](https://linkedin.com/in/shawky-mohamed-shawky)  
 
 ---
 
@@ -470,29 +452,6 @@ in the Software without restriction...
 </a>
 
 </div>
-
----
-
-## 🙏 Acknowledgments & Credits
-
-<div align="center">
-
-### 🎬 **Special Thanks To:**
-
-**[The Movie Database (TMDB)](https://www.themoviedb.org/)**  
-*For providing comprehensive movie data and beautiful poster images*
-
-**[Flutter Team](https://flutter.dev/)**  
-*For creating this amazing cross-platform framework*  
-
-**[Google Fonts](https://fonts.google.com/)**  
-*For the beautiful typography that makes our app shine*
-
-**[GetX Community](https://pub.dev/packages/get)**  
-*For the powerful state management solution*
-
-**[Open Source Community](https://opensource.org/)**  
-*For continuous inspiration and collaborative spirit*
 
 ---
 
@@ -518,8 +477,7 @@ in the Software without restriction...
 
 ---
 
-**🌟 Made with ❤️ by the Flutter Community**
-
 <sub>© 2024 MoviX App. All rights reserved.</sub>
 
 </div>
+
